@@ -35,7 +35,7 @@ from turtledemo.penrose import sun
 #
 
 #案例2
-def calc_order_cost(*args,coupon=0,score=0,package_money=0):
+def calc_order_cost(*args : tuple[str,float,int],coupon=0,score=0,package_money:float=0):
     """
     根据传入的信息计算价格
     :param args: 商品信息----->元组
