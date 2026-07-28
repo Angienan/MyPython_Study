@@ -1,0 +1,101 @@
+排名,TMDB_ID,电影名称,上映日期,原始语言,评分,投票数,热度
+1,278,The Shawshank Redemption,1994-09-23,en,8.709,27543,187.95
+2,238,The Godfather,1972-03-14,en,8.689,20897,200.80
+3,240,The Godfather Part II,1974-12-20,en,8.571,12609,110.40
+4,424,Schindler's List,1993-12-15,en,8.568,16047,125.70
+5,389,12 Angry Men,1957-04-10,en,8.557,9851,95.34
+6,155,The Dark Knight,2008-07-16,en,8.528,33244,179.79
+7,129,Spirited Away,2001-07-20,ja,8.534,16724,115.81
+8,497,The Green Mile,1999-12-10,en,8.507,17681,119.72
+9,496243,Parasite,2019-05-30,ko,8.500,18516,112.67
+10,680,Pulp Fiction,1994-09-10,en,8.500,28179,143.80
+11,372058,Your Name.,2016-08-26,ja,8.500,11518,92.97
+12,122,The Lord of the Rings: The Return of the King,2003-12-17,en,8.495,24510,214.81
+13,13,Forrest Gump,1994-06-23,en,8.463,27712,149.99
+14,429,The Good the Bad and the Ugly,1966-12-22,it,8.468,8741,111.43
+15,346,Seven Samurai,1954-04-26,ja,8.452,3757,46.22
+16,769,GoodFellas,1990-09-12,en,8.452,13029,83.36
+17,12477,Grave of the Fireflies,1988-04-16,ja,8.444,5654,0.05
+18,637,Life Is Beautiful,1997-12-20,it,8.439,13125,62.91
+19,157336,Interstellar,2014-11-05,en,8.469,36171,381.19
+20,550,Fight Club,1999-10-15,en,8.400,29699,133.92
+21,11216,Cinema Paradiso,1988-11-17,it,8.400,4420,34.89
+22,598,City of God,2002-08-30,pt,8.429,7461,56.76
+23,311,Once Upon a Time in America,1984-05-23,en,8.384,5456,45.22
+24,120,The Lord of the Rings: The Fellowship of the Ring,2001-12-18,en,8.430,25469,213.30
+25,510,One Flew Over the Cuckoo's Nest,1975-11-19,en,8.412,10541,64.80
+26,4935,Howl's Moving Castle,2004-09-09,ja,8.388,10025,108.03
+27,121,The Lord of the Rings: The Two Towers,2002-12-18,en,8.414,22108,149.50
+28,324857,Spider-Man: Into the Spider-Verse,2018-12-06,en,8.393,15806,113.93
+29,1891,The Empire Strikes Back,1980-05-20,en,8.393,17098,51.88
+30,378064,A Silent Voice: The Movie,2016-09-17,ja,8.385,4006,64.99
+31,423,The Pianist,2002-09-17,en,8.376,9271,70.62
+32,244786,Whiplash,2014-10-10,en,8.400,15289,92.56
+33,807,Se7en,1995-09-22,en,8.380,21257,144.65
+34,27205,Inception,2010-07-15,en,8.371,36884,151.64
+35,539,Psycho,1960-06-22,en,8.415,10151,45.84
+36,14537,Harakiri,1962-09-15,ja,8.400,1019,20.45
+37,569094,Spider-Man: Across the Spider-Verse,2023-05-31,en,8.331,7207,197.86
+38,73,American History X,1998-07-01,en,8.345,12217,6.73
+39,274,The Silence of the Lambs,1991-02-14,en,8.345,17373,3.56
+40,567,Rear Window,1954-09-01,en,8.341,6929,5.76
+41,12493,High and Low,1963-03-01,ja,8.352,1058,6.57
+42,599,Sunset Boulevard,1950-08-10,en,8.340,2147,14.70
+43,37165,The Intouchables,2011-11-02,fr,8.330,16200,45.20
+44,18491,Neon Genesis Evangelion: The End of Evangelion,1997-07-19,ja,8.340,1225,33.98
+45,769,Goodfellas,1990-09-12,en,8.330,13859,18.54
+46,630,The Apartment,1960-06-15,en,8.310,3200,8.50
+47,278,The Shawshank Redemption,1994-09-23,en,8.300,29408,33.06
+48,10865,Back to the Future,1985-07-03,en,8.320,19500,30.20
+49,603,The Matrix,1999-03-30,en,8.280,25800,38.50
+50,12477,Grave of the Fireflies,1988-04-16,ja,8.270,6246,0.01
+51,550,Fight Club,1999-10-15,en,8.260,31139,26.14
+52,1891,Star Wars: Episode V,1980-05-20,en,8.250,17913,8.79
+53,120,LOTR: Fellowship,2001-12-18,en,8.240,26732,29.61
+54,121,LOTR: Two Towers,2002-12-18,en,8.230,23206,26.01
+55,122,LOTR: Return of the King,2003-12-17,en,8.220,25780,24.26
+56,278,Shawshank Redemption,1994-09-23,en,8.210,21465,58.41
+57,238,The Godfather,1972-03-14,en,8.200,15998,62.35
+58,240,The Godfather Part II,1974-12-20,en,8.190,9645,46.21
+59,424,Schindler's List,1993-12-15,en,8.180,12783,32.62
+60,680,Pulp Fiction,1994-09-10,en,8.170,23175,57.05
+61,13,Forrest Gump,1994-06-23,en,8.160,22738,45.49
+62,155,The Dark Knight,2008-07-14,en,8.150,27583,66.64
+63,389,12 Angry Men,1957-04-10,en,8.140,6429,21.08
+64,497,The Green Mile,1999-12-10,en,8.130,13948,45.93
+65,157336,Interstellar,2014-11-05,en,8.120,30480,147.47
+66,27205,Inception,2010-07-15,en,8.110,38404,33.47
+67,496243,Parasite,2019-05-30,ko,8.100,13728,64.49
+68,372058,Your Name.,2016-08-26,ja,8.090,8718,163.73
+69,129,Spirited Away,2001-07-20,ja,8.080,12854,70.15
+70,550,Fight Club,1999-10-15,en,8.070,24123,58.85
+71,807,Se7en,1995-09-22,en,8.060,22397,18.56
+72,274,The Silence of the Lambs,1991-02-14,en,8.050,17751,3.56
+73,73,American History X,1998-07-01,en,8.040,12217,6.73
+74,567,Rear Window,1954-09-01,en,8.030,6929,5.76
+75,599,Sunset Boulevard,1950-08-10,en,8.020,1949,11.30
+76,37165,The Intouchables,2011-11-02,fr,8.010,16200,45.20
+77,603,The Matrix,1999-03-30,en,8.000,25800,38.50
+78,10865,Back to the Future,1985-07-03,en,7.990,19500,30.20
+79,637,Life Is Beautiful,1997-12-20,it,7.980,11058,33.48
+80,598,City of God,2002-02-05,pt,7.970,5789,28.60
+81,311,Once Upon a Time in America,1984-05-23,en,7.960,4174,20.66
+82,429,The Good the Bad and the Ugly,1966-12-23,it,7.950,6639,32.79
+83,346,Seven Samurai,1954-04-26,ja,7.940,2673,14.79
+84,769,GoodFellas,1990-09-12,en,7.930,10107,39.72
+85,510,One Flew Over the Cuckoo's Nest,1975-11-18,en,7.920,8592,20.70
+86,4935,Howl's Moving Castle,2004-11-19,ja,7.910,7314,65.61
+87,423,The Pianist,2002-09-17,en,7.900,7257,31.26
+88,244786,Whiplash,2014-10-10,en,7.890,12190,47.08
+89,324857,Spider-Man: Into the Spider-Verse,2018-12-06,en,7.880,11315,93.76
+90,378064,A Silent Voice,2016-09-17,ja,7.870,2948,114.39
+91,539,Psycho,1960-06-22,en,7.860,8181,28.61
+92,11216,Cinema Paradiso,1988-11-17,it,7.850,3344,16.81
+93,12477,Grave of the Fireflies,1988-04-16,ja,7.840,4130,0.60
+94,14537,Harakiri,1962-09-15,ja,7.830,631,12.68
+95,569094,Spider-Man: Across the Spider-Verse,2023-05-31,en,7.820,8119,28.57
+96,18491,End of Evangelion,1997-07-19,ja,7.810,1062,32.30
+97,40096,A Dog's Will,2000-09-15,pt,7.800,883,6.48
+98,441130,Wolfwalkers,2020-10-26,en,7.790,770,14.81
+99,92321,Hotarubi no Mori e,2011-09-17,ja,7.780,782,0.60
+100,652837,Josee the Tiger and the Fish,2020-12-25,ja,7.770,314,16.17
