@@ -22,6 +22,3 @@ def get_users():
     ]
 
 #启动服务,uvicorn: python中的轻量级web服务器
-if __name__ == "__main__":
-    import uvicorn
-    uvicorn.run(app,host="127.0.0.1",port=8000)
